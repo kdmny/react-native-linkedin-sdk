@@ -1,0 +1,33 @@
+{
+  "name": "react-native-linkedin-sdk",
+  "version": "0.0.1",
+  "description": "React Native wrapper for Android LinkedIn SDK manager",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdmny/react-native-linkedin-sdk"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "native",
+    "ios",
+    "android",
+    "linkedin",
+    "login",
+    "sdk"
+  ],
+  "author": "Kale McNaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdmny/react-native-linkedin-sdk/issues"
+  },
+  "homepage": "https://github.com/kdmny/react-native-linkedin-sdk",
+  "peerDependencies": {
+    "react-native": ">=0.14.2"
+  }
+}
